@@ -1,6 +1,6 @@
 package randomBullshitTest;
 
-public class Palindrome {
+public class PalindromeNoMethod {
 	
 	public static void main(String[] args) {
 		
